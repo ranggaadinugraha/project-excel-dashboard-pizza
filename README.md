@@ -35,7 +35,7 @@ Interactive **slicers** are provided for:
 | File Name | Description |
 |---------|------------|
 | `Pizza_Sales_Dashboard.xlsx` | Main dashboard file using Pivot Tables. The raw data sheet is hidden to protect the dashboard structure. |
-| `pizza_sales_raw_data.xlsx` | Cleaned raw dataset used to build the dashboard. Provided separately for transparency and reproducibility. |
+| `Data Pizza Sales.xlsx` | Cleaned raw dataset used to build the dashboard. Provided separately for transparency and reproducibility. |
 | `dashboard_preview.png` | Screenshot preview of the dashboard. |
 
 ---
@@ -73,10 +73,6 @@ This project was created for:
 
 ---
 
-## 👤 Author
-**[Your Name]**  
-Data Analysis & Excel Dashboard Portfolio  
-GitHub: https://github.com/yourusername
 
 ---
 
