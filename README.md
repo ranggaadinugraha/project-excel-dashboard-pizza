@@ -34,8 +34,8 @@ Interactive **slicers** are provided for:
 ## 📁 Files in This Repository
 | File Name | Description |
 |---------|------------|
-| `pivot-pizza-sales.xlsx` | Main dashboard file using Pivot Tables. The raw data sheet is hidden to protect the dashboard structure. |
-| `Data Pizza Sales.xlsx` | Cleaned raw dataset used to build the dashboard. Provided separately for transparency and reproducibility. |
+| `pivot-pizza-sales.xlsx` | Main dashboard file created using Pivot Tables. The raw data sheet is hidden to keep the dashboard clean and focused. |
+| `Data Pizza Sales.xlsx` | Raw dataset used to build the dashboard. Provided separately for transparency and reproducibility. |
 | `dashboard_preview.png` | Screenshot preview of the dashboard. |
 
 ---
