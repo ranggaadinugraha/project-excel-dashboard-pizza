@@ -1,29 +1,29 @@
 # 🍕 Pizza Sales Performance Dashboard (Excel Pivot Table)
 
 ## 📌 Project Overview
-This project is an **Excel-based interactive dashboard** created using **Pivot Tables and Pivot Charts** to analyze pizza sales performance.  
-The dashboard provides key business insights such as revenue, order volume, average order value, sales trends, and product performance.
+This project is an **interactive Excel dashboard** built using **Pivot Tables and Pivot Charts** to analyze pizza sales performance.  
+It presents key business insights in a clear and visual format, suitable for decision-making and reporting.
 
-The project is designed as a **portfolio project** to demonstrate skills in:
-- Data analysis
+The dashboard is designed as a **portfolio project** to demonstrate proficiency in:
+- Excel data analysis
 - Pivot Tables & Pivot Charts
 - Dashboard design
-- Business insight presentation using Excel
+- Business insight storytelling
 
 ---
 
-## 📊 Dashboard Highlights
-The dashboard includes the following key metrics and visualizations:
+## 📊 Dashboard Features
+The dashboard provides the following insights:
 
 - **Total Revenue**
 - **Total Orders**
 - **Average Order Value (AOV)**
 - **Sales distribution by pizza category**
 - **Top 10 pizzas by quantity sold**
-- **Monthly revenue trend**
-- **Revenue by pizza category and size**
+- **Monthly revenue trends**
+- **Revenue by pizza category and pizza size**
 
-Interactive **slicers** are provided for:
+Interactive **slicers** allow filtering by:
 - Order Date (Month)
 - Pizza Category
 - Pizza Size
@@ -40,16 +40,16 @@ Interactive **slicers** are provided for:
 
 ---
 
-## 🔒 Data Handling
-- The **dashboard file uses Pivot Tables**, and the raw data sheet is intentionally **hidden** to maintain dashboard clarity.
-- A **separate raw data file** is included to allow reviewers to:
-  - Understand the data structure
-  - Recreate or modify the dashboard if needed
-  - Verify the analysis process
+## 🔒 Data Handling Explanation
+- The dashboard file uses **Pivot Tables**, and the raw data is intentionally **hidden** to maintain dashboard clarity.
+- The original dataset is included in a **separate file** to allow:
+  - Data inspection
+  - Dashboard recreation
+  - Further analysis or improvement
 
 ---
 
-## 🛠 Tools & Techniques Used
+## 🛠 Tools & Techniques
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -59,12 +59,12 @@ Interactive **slicers** are provided for:
 
 ---
 
-## 🎯 Purpose of This Project
+## 🎯 Project Purpose
 This project was created for:
-- Data analyst portfolio
+- Data Analyst / Business Analyst portfolio
 - Demonstrating Excel dashboard skills
-- Business performance analysis practice
 - GitHub portfolio showcase
+- Practice in business data analysis
 
 ---
 
@@ -72,9 +72,3 @@ This project was created for:
 ![Pizza Sales Dashboard](dashboard_preview.png)
 
 ---
-
-
----
-
-## 📄 License
-This project is for **educational and portfolio purposes only**.
