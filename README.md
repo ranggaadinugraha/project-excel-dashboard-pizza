@@ -69,6 +69,7 @@ This project was created for:
 ---
 
 ## 📷 Dashboard Preview
-![Pizza Sales Dashboard](dashboard_preview.png)
+![Pizza Sales Dashboard](asset/dashboard.png)
+
 
 ---
